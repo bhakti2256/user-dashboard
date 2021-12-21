@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/user-dashboard/static/js/main.d84fec87.js",
+    "index.html": "/user-dashboard/index.html",
+    "main.d84fec87.js.map": "/user-dashboard/static/js/main.d84fec87.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d84fec87.js"
+  ]
+}
